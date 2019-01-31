@@ -6,6 +6,6 @@
 	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 	<uses-permission android:name="android.permission.RECORD_AUDIO" />
 	<application android:label="XamarinFest2019.Android">
-		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyBsaK1kGWAVSbpLe3U6HzMy1F4I-DFFkvw" />
+		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="" />
 	</application>
 </manifest>
